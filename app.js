@@ -60,9 +60,9 @@ var me = {
 //NOTE Conditionals:
 let idAge = 30
 if (idAge >= 21) {
-    console.log('Drive safe');
+    console.log('Drive Safe');
 }
-else if (idAge >= 18) {
+else if (idAge >= 17) {
     console.log('Gamble Up kiddo')
 }
 else {
@@ -219,3 +219,4 @@ let riceKrispy = {
 
 //write a sentance using interpolation about it 
 //I have a ____ it has _____ and ____ 
+print("hahahaha")
